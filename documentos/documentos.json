@@ -130,5 +130,16 @@
     "tamanho": "134 KB",
     "tipo": "PDF",
     "hidden": "true"
+  },
+    {
+    "id": 12,
+    "nome": "Edital Assembleia Geral 19 de setembro de 2026.",
+    "categoria": "Editais",
+    "data": "2026-08-31",
+    "descricao": "a) referendar a ata da AGE realizada em 21/06/2026;b) reforma parcial do Estatuto Social;c) eleição de representante legal;d) outras deliberações correlatas que se fizerem necessárias, para regularização da entidade.",
+    "arquivo": "documentos/editais/APAC_Edital_Convocacao_AGE_19__SET_assinado_assinado_assinado.pdf",
+    "tamanho": "134 KB",
+    "tipo": "PDF",
+    "hidden": "false"
   }
 ]
